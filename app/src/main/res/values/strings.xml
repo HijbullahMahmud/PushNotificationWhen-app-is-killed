@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NotificationDemoFCM</string>
+    <string name="NEWS_CHANNEL_ID">news</string>
+    <string name="CHANNEL_NEWS">News</string>
+    <string name="CHANNEL_DESCRIPTION">Get informed with new updates</string>
+    <string name="DEBUG_TAG">LearningPushNotification</string>
+</resources>
